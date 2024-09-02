@@ -29,3 +29,23 @@ th{
 .table1{
     background-color: aqua;
 }
+
+#foot{
+    color: rgb(134, 134, 134);
+}
+
+#finalmonitor{
+    background-image: url(./img/monitor.jpg);
+    height: 208px;
+    width: 312px;
+    font-size: 30px;
+    color: white;
+}
+
+#finalgraph{
+    height: 207px;
+    width: 311px;
+    font-size: 30px;
+    color: white;
+    background-image: url(./img/graph.jpg);
+}
