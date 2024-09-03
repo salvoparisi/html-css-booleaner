@@ -52,3 +52,8 @@ th{
     color: white;
     background-image: url(./img/graph.jpg);
 }
+
+.padding{
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
